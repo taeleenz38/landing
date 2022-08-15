@@ -1,0 +1,10 @@
+.banner {
+  width: 100%;
+  height: 400px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: URL("https://wallpaper.dog/large/10827024.jpg");
+  object-fit: fill;
+}
